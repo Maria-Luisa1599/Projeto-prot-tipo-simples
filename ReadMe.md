@@ -38,5 +38,9 @@ Objetivo: O projeto consiste na organização de corridas de carro, com foco em 
 ## LINK DO WIREFRAME NO FIGMA
 https://www.figma.com/design/PcPFEaU0a0bbW48Ax1Z1zW/Taxi-Projeto---Final?node-id=0-1&t=TNcBInZUatNr7stD-1
 
+
+## PRIMEIRA VERSÃO
 <img src="./assets/v1/tela v1 tudo.png" alt="PROJETO WIREFRAME DE MÉDIA FIDELIDADE">
+
+## SEGUNDA VERSÃO - PROJETO FINALIZADO
 <img src="./assets/v2/tela v2 pronta tudo.png" alt="PROJETO WIREFRAME DE MÉDIA FIDELIDADE">
